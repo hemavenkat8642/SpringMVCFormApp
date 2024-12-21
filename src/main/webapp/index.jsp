@@ -3,7 +3,7 @@
 	<h2>Welcome to Ashok IT School</h2>
 
 
-	<a href="displayForm.htm">Registration Form</a>
+	<a href="displayForm.html">Registration Form</a>
 
 </body>
 </html>
