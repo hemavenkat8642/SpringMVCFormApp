@@ -11,7 +11,7 @@ import com.ashok.model.User;
 @Controller
 public class UserController {
 
-	@RequestMapping(value = "/displayForm.htm", method = RequestMethod.GET)
+	@RequestMapping(value = "/displayForm.html", method = RequestMethod.GET)
 	public String displayForm(Model model) {
 		System.out.println("this is displayForm() method by 21MIC7183");
 		model.addAttribute("user", new User());
